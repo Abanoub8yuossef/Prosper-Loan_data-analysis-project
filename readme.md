@@ -3,8 +3,7 @@ The final project in "Advanced Data analysis" NANO degree from Udacity
 
 ## Overview
 * The data contains information about 113,937 loan lists from  Q4-2005 till Q1-2014 
-through 81 variables classified into 3 categories and explained through 81 variables,
-the data provided by Udacity.
+through 81 variables classified into 3 categories, and the data provided by Udacity.
 * Using Data Wrangling process [Gathering, Assessing, Cleaning]
 * Using Exploratory and Explanatory Data analysis
 * Visualize data using [ Univariate plots, Bivariate Plots, Multivariate Plots]
