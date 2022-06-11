@@ -1,36 +1,37 @@
 # Prosper Loan Data Exploration
-## by (Abanoub Youssef)
+The final project in "Advanced Data analysis" NANO degree from Udacity 
 
-
-## Dataset
-
-The data contains information about 113,937 loan list from  2005Q4 till 2014Q1 
-through 81 variables classified into 3 category and explaned through 81 variables,
+## Overview
+* The data contains information about 113,937 loan lists from  Q4-2005 till Q1-2014 
+through 81 variables classified into 3 categories and explained through 81 variables,
 the data provided by Udacity.
+* Using Data Wrangling process [Gathering, Assessing, Cleaning]
+* Using Exploratory and Explanatory Data analysis
+* Visualize data using [ Univariate plots, Bivariate Plots, Multivariate Plots]
+
+
 
 
 ## Summary of Findings
 
-In the exploration, I found that
-
-* When Borrower APR increase the lender yield increase also.
-* Borrower APR has strongly -ve relationship with prosper score
-* 36 months loan term has the heighst frequency and wider Borrower APR range
-* People prefer to take loan with 36 months term and it is not depend on the income range
-* Peoples take loan for Debt consolidation more than any category 
+* When Borrower APR increases the lender yield increase also.
+* Borrower APR has a strongly -ve relationship with prosper score
+* 36 months loan term has the highest frequency and wider Borrower APR range
+* People prefer to take loans with 36 months term and it does not depend on the income range
+* Peoples take loans for Debt consolidation more than any category 
 * Students take the lowest loan original amounts 
-* People with high monthly rate taking high loans 
+* People with high monthly rates taking high loans 
 
 ## Key Insights for Presentation
 
-For the presentation, I focus on the relation between those variables
+For the presentation, focus on the relationship between those variables
 (Listing Category & Loan Original Amount & Term & Borrower APR & Employment Status & Lender Yield & ProsperScore)
-so i started to explore them firstly with Univariate Exploration after that Bivatiate Exploration and finaly with Multivariate Exploration
-to write a conclution about the relationship between them.
+so I started to explore them firstly with Univariate Exploration after that Bivariate Exploration and finally with Multivariate Exploration
+to write a conclusion about the relationship between them.
 
-* The relationships show that the loans with higher borrower APR and Lender yield tends to had a lower prosper sore
-* People with full time and part time jobs had a lower borrower APR in all loan status 
-* In each income reange when the loan original amount icreased the medina of 60 months term increase more than 12 and 36 months term medians
-* It is interesting because the median of 12 months term of green loans category is higher than other two terms
-* The reange of 12 months term in cosmetic procedure is largest than the other two terms
+* The relationships show that the loans with higher borrower APR and Lender yield tend to have a lower prosper sore
+* People with full-time and part-time jobs had a lower borrower APR in all loan status 
+* In each income range when the loan original amount increased the medina of 60 months term increase more than 12 and 36 months term medians
+* It is interesting because the median of 12 months term of the green loans category is higher than the other two terms
+* The range of 12 months term in the cosmetic procedure is largest than the other two terms
 * Personal loan and student use loan taking 36 months terms only
